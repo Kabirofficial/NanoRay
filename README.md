@@ -70,7 +70,7 @@ The project uses a flat structure for simplicity and direct access to notebooks.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/NanoRay.git
+git clone https://github.com/kabirofficial/NanoRay.git
 cd NanoRay
 ```
 
