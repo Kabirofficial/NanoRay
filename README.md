@@ -106,7 +106,7 @@ Follow the notebooks in numerical order:
 ### Kabir Thayani (Jingg)
 
 * Aspiring AI Engineer | Computer Vision Enthusiast
-* [LinkedIn](https://linkedin.com/thayanikabir) | [Email](mailto:thayanikabir.official@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/thayanikabir/) | [Email](mailto:thayanikabir.official@gmail.com)
 
 ---
 
